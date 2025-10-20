@@ -15,6 +15,14 @@ Pomodoro Timer là ứng dụng giúp tăng năng suất làm việc theo kỹ t
 
 **Yêu cầu cơ bản:**
 - ⏱️ **Timer Work/Break**: 25 phút làm việc, 5 phút nghỉ ngơi
+
+https://github.com/user-attachments/assets/fc6af871-c97d-4086-bb30-a1a85ad333c4
+
+
+
+https://github.com/user-attachments/assets/46643126-8fbc-48a4-98ad-47229280589c
+
+
 - 🔔 **Thông báo nền**: Nhận notification khi phiên kết thúc (ngay cả khi app đang chạy nền)
 - 💾 **Lưu lịch sử**: Tất cả phiên hoàn thành được lưu vào AsyncStorage
 - 📳 **Haptic Feedback**: Rung phản hồi khi tương tác
