@@ -1,6 +1,11 @@
 # 🍅 Pomodoro Timer App
+Phan Thị Chi - Phát triển ứng dụng di động đa nền tảng (1)GITTA
 
 Ứng dụng quản lý thời gian theo phương pháp Pomodoro, được xây dựng với React Native và Expo.
+
+> **Repository**: [https://github.com/chichiphan21/Pomodoro-react-native](https://github.com/chichiphan21/Pomodoro-react-native)  
+> **Author**: [@chichiphan21](https://github.com/chichiphan21)  
+> **Created**: October 20, 2025
 
 ## 📖 Giới thiệu
 
@@ -205,14 +210,6 @@ npx expo start
 - [ ] Haptic feedback hoạt động
 - [ ] Background timer hoạt động
 
-## 📚 Tài liệu bổ sung
-
-- **ARCHITECTURE.md** - Chi tiết kiến trúc và data flow
-- **HUONG_DAN.md** - Hướng dẫn sử dụng chi tiết (Tiếng Việt)
-- **TESTING_GUIDE.md** - Checklist và scenarios test
-- **QUICK_REFERENCE.md** - Tham khảo nhanh APIs và commands
-- **CLEANUP_SUMMARY.md** - Quá trình dọn dẹp code
-
 ## 🐛 Troubleshooting
 
 ### Notifications không hoạt động
@@ -253,14 +250,86 @@ MIT License - Tự do sử dụng cho mục đích học tập và cá nhân.
 
 Được phát triển như một phần của môn học **Đa nền tảng** (Cross-platform Development).
 
-## 🙏 Acknowledgments
+**GitHub**: [@chichiphan21](https://github.com/chichiphan21)
 
-- [Expo](https://expo.dev) - Amazing development platform
-- [React Native](https://reactnative.dev) - Cross-platform framework
-- [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) - Time management method
+## 🔗 Repository Information
 
----
+### Clone Repository
+```bash
+git clone https://github.com/chichiphan21/Pomodoro-react-native.git
+cd Pomodoro-react-native
+npm install
+```
+
+### Git Commands
+
+**Check status:**
+```bash
+git status
+```
+
+**Add changes:**
+```bash
+git add .
+```
+
+**Commit changes:**
+```bash
+git commit -m "feat: Your feature description"
+```
+
+**Push to GitHub:**
+```bash
+git push origin master
+```
+
+**Pull latest changes:**
+```bash
+git pull origin master
+```
+
+### Branch Management
+```bash
+# Tạo branch mới
+git checkout -b feature/your-feature-name
+
+# Chuyển về master
+git checkout master
+
+# Merge branch
+git merge feature/your-feature-name
+
+# Xóa branch
+git branch -d feature/your-feature-name
+```
+
+## � Project Structure on GitHub
+
+```
+Pomodoro-react-native/
+├── .github/              # GitHub workflows (nếu có)
+├── app/                  # Application screens
+├── components/           # React components
+├── types/                # TypeScript definitions
+├── utils/                # Utility functions
+├── assets/               # Images and media
+├── .gitignore           # Git ignore rules
+├── README.md            # This file
+├── package.json         # Dependencies
+└── Documentation files  # Guides and docs
+```
+
+## 🌟 GitHub Features
+
+- ✅ **Clean commit history** với conventional commits
+- ✅ **Comprehensive documentation** trong README
+- ✅ **Well-organized structure** dễ navigate
+- ✅ **MIT License** cho open source
+- ✅ **Issue tracking** cho bug reports và features
 
 **Made with ❤️ using React Native & Expo**
 
 🍅 Start being productive with Pomodoro Timer today!
+
+[![GitHub Stars](https://img.shields.io/github/stars/chichiphan21/Pomodoro-react-native?style=social)](https://github.com/chichiphan21/Pomodoro-react-native)
+[![GitHub Forks](https://img.shields.io/github/forks/chichiphan21/Pomodoro-react-native?style=social)](https://github.com/chichiphan21/Pomodoro-react-native/fork)
